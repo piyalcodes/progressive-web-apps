@@ -1,0 +1,7 @@
+pluralsight.com
+
+-Getting Started with Progressive Web Apps
+-Building Offline Web Apps with Service Worker
+
+https://app-manifest.firebaseapp.com/
+https://realfavicongenerator.net/
