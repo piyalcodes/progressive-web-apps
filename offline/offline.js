@@ -1,1 +1,1 @@
-alert("You are offline")
+console.log("You are offline");

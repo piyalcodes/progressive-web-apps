@@ -1,0 +1,30 @@
+[
+   {
+      "id": 1,
+      "name": "Car 1",
+      "price": "500000",
+      "color": "Green",
+      "description": "Aenean at arcu velit. Cras molestie est vitae eros placerat eleifend. Nulla viverra sodales purus vitae porta. Aliquam egestas orci lacinia lobortis porta. Quisque feugiat sed lacus non vehicula. Etiam dolor tortor, dapibus eu placerat eu, elementum ut elit. Sed laoreet congue faucibus"
+   },
+   {
+      "id": 2,
+      "name": "Car 2",
+      "price": "20000",
+      "color": "Red",
+      "description": " Sed sed facilisis nulla. Aliquam nec nunc non eros vehicula faucibus. Aliquam non diam id ex pellentesque facilisis. Nullam id euismod dui. Vestibulum vel nunc eu mi pretium facilisis. Duis mattis lorem ut volutpat vestibulum. Aenean venenatis sapien vestibulum hendrerit faucibus. Curabitur sit amet lacus commodo, condimentum massa a, congue arcu. Nulla vitae urna ac felis sodales imperdiet id eget lectus"
+   },
+   {
+      "id": 3,
+      "name": "Car 3",
+      "price": "4522",
+      "color": "Blue",
+      "description": "Sed in condimentum nisi. Vestibulum est mauris, tristique blandit condimentum sed, porttitor sit amet arcu. Maecenas elementum sapien sit amet mi mattis blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris feugiat mi quis lorem lobortis placerat. Proin id urna eu odio mattis condimentum. Suspendisse tortor est, maximus aliquet luctus eleifend, egestas non tortor. Aenean fermentum velit eget nulla vulputate egestas"
+   },
+   {
+      "id": 4,
+      "name": "Car 4",
+      "price": "69855",
+      "color": "Black",
+      "description": "Sed pellentesque nulla et lacus aliquam, nec lacinia nibh condimentum. Pellentesque volutpat facilisis lorem eu condimentum. In dignissim vel eros semper efficitur. Praesent vestibulum vulputate eleifend. Suspendisse potenti. Praesent a lorem euismod, hendrerit diam nec, rutrum nisl. Nulla ut libero tempor"
+   }
+]
